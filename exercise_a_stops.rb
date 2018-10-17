@@ -1,7 +1,7 @@
 stops = [ "Croy", "Cumbernauld", "Falkirk High",
   "Linlithgow", "Livingston", "Haymarket" ]
 
-
+p stops
 
 # 1. Add `"Edinburgh Waverley"` to the end of the array
 stops.push("Edinburgh Waverley")
